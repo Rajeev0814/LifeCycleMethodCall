@@ -5,10 +5,15 @@ Android Activity and Fragment lifecycle
 when you add fragment in xml...................
 
 function_fragment: onAttach
+
 function_fragment: onCreate
+
 function_fragment: onCreateView
+
 function_fragment: onViewCreated
+
 function_activity: onCreate
+
 function_fragment: onActivityCreated
 function_fragment: onStart
 function_activity: onStart
