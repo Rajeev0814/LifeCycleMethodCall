@@ -43,6 +43,9 @@ function_activity: onResume
 function_fragment: onResume
 
 
+
+
+
 when you add fragment dynamically................
 
 function_activity: onCreate
