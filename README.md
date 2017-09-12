@@ -46,4 +46,3 @@ function_fragment: onStart
 function_activity: onStart
 function_activity: onResume
 function_fragment: onResume
-
